@@ -254,7 +254,7 @@ const PortfolioView = () => {
           {/* Profile Image - Static local image only */}
           <div className="avatar">
             <img
-              src="/profile.png"
+              src="/profile.jpeg"
               alt={portfolioData.name}
               crossOrigin="anonymous"
               onError={(e) => {
